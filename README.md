@@ -12,13 +12,15 @@
 
 本博客随时欢迎大家在此处添加链接。
 
-**这并不意味本博客接受一切形式的友情链接。**
+**但这并不意味本博客接受一切形式的友情链接。**
 
-你可以直接 [联系 PolarisS](mailto:polarissdesu@outlook.com)，并提供以下内容：
+你可以直接访问[此 Github 仓库的链接](https://github.com/PolarisSdesu/links-at-cryolysis)，并提交一个议题（Issues）并提供以下内容：
 
 - 网站名称。
 - 网站 URL。
 - 网站描述 / 介绍。
+
+或直接[联系 PolarisS](mailto:polarissdesu@outlook.com)，提供以上内容，等待审核通过。
 
 **别忘了同时在你的网站的“友情链接”项目中添加本网站。**
 
