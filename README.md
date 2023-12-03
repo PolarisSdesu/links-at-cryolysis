@@ -15,7 +15,7 @@
 **但这并不意味本博客接受一切形式的友情链接。**
 
 你可以直接访问[此 Github 仓库的链接](https://github.com/PolarisSdesu/links-at-cryolysis)，并提交一个议题（Issues）并提供以下内容：
-
+- 你的昵称。
 - 网站名称。
 - 网站 URL。
 - 网站描述 / 介绍。
