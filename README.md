@@ -32,4 +32,4 @@
 
 - 网站名称：**CryolysiS 冷分解**
 - 网站 URL：[**polarissmusic.cn**](https://polarissmusic.cn)
-- 网站描述：**一体机〇〇的小日常**
+- 网站描述：**夜之观测站**
